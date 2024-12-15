@@ -1,0 +1,23 @@
+.view {
+    background-color: rgba(239, 73, 239, 0.869);
+    padding: 100px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  
+  .view-item b {
+    font-size: 20px;
+    color:white
+  }
+  .view-item span {
+    font-size: 18px;
+    color:white
+
+  }
+  
+  .view button {
+    width: 100%;
+    margin-top: 10px;
+  }
